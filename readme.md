@@ -1,6 +1,6 @@
 #### **EXQL** 
 
-simple API menggunakan Express GRAPHQL Library
+Express and GraphQL Services
 
 step 
 1. clone/copy repository 
