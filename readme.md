@@ -1,6 +1,6 @@
 #### **EXQL** 
 
-Express and GraphQL Services
+Express and GraphQL Server
 
 step 
 1. clone/copy repository 
